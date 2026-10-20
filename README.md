@@ -1,5 +1,5 @@
 ## hey there, it's yousuf 🚀
 
-- 🔭 i study cs + math @ University of Guelph
-- 💼 currently i'm a swe intern @ clio, incoming @ wealthsimple (w27)
-- i forgot to link my personal github for the last (~20 months) of swe internships -> lack of green can be attributed to that :) 
+- 🔭 studying `cs + math` @ University of Guelph
+- 💼 swe intern @ **clio** · incoming @ **wealthsimple** (w27)
+- 🌱 <sub>forgot to link my personal github for ~20 months of internships, hence the lack of green :)</sub>
